@@ -20,5 +20,5 @@
 
 הנחה. חישוב ערך תחתון של מספר ממשי - חישוב של ערך כזה במחשב יכולה להיות משימה לא כל כך פשוטה.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.keithschwarz.com/darts-dice-coins/images/0to1partitioned.png)https://www.keithschwarz.com/darts-dice-coins/images/0to1partitioned.png)
 
