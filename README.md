@@ -20,5 +20,5 @@
 
 הנחה. חישוב ערך תחתון של מספר ממשי - חישוב של ערך כזה במחשב יכולה להיות משימה לא כל כך פשוטה.
 
-![]
+![https://github.com/idan-suliman/idan-sulimangithub.io/issues/1#issue-2067769276]
 
